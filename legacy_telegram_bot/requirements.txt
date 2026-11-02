@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+torch
+transformers
+pynvml
+Pillow
+beautifulsoup4
+markdown
